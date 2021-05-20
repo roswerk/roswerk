@@ -12,5 +12,6 @@ My name is Max Rosales and i'm an up-coming Full-Stack web-developer. In the pre
 - ⚡ Fun fact: I speak English, Spanish and German. I'm very social and love to work on cool projects with cool people. 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiroswerkanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roswerk)](https://github.com/anuraghazra/github-readme-stats)
+
 
