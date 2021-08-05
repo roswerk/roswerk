@@ -30,7 +30,6 @@ My name is Max Rosales and i'm an up-coming Full-Stack web-developer. In the pre
   <img src="https://img.shields.io/badge/Sass-05122A?style=flat&logo=Sass">
   <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=JavaScript">
   <img src="https://img.shields.io/badge/jQuery-05122A?style=flat&logo=jQuery&logoColor=37A2EA">
-  <img src="https://img.shields.io/badge/C%20Sharp-05122A?style=flat&logo=C-Sharp&logoColor=189F20">
   <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=Python">
 </p>
 
@@ -54,7 +53,6 @@ My name is Max Rosales and i'm an up-coming Full-Stack web-developer. In the pre
   <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=Bootstrap">
   <img src="https://img.shields.io/badge/Material%20Design-05122A?style=flat&logo=Material-Design&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Material%20UI-05122A?style=flat&logo=Material-UI&logoColor=37A2EA"">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-05122A?style=flat&logo=Tailwind-CSS">
 </p>
 
 <p>
