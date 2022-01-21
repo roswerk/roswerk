@@ -7,7 +7,7 @@
 My name is Max Rosales and i'm an up-coming Full-Stack web-developer. In the previous years i have focus mostly on team building and project development (on the business perspective).
 
 - 🔭 I’m currently working on some React projects to learn more about powerful Web Development technologies.
-- 🌱 I’m currently sharping up my skills in ReactJS, React-Native and PWA technologies.
+- 🌱 I’m currently sharping up my skills in NextJS and React-IONIC.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/maximilian-rosales/" target="_blank">LinkedIn</a>
 - ⚡ Fun fact: I speak English, Spanish and German. I'm very social and love to work on cool projects with cool people. 
 
